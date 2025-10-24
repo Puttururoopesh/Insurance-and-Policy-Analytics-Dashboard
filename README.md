@@ -103,7 +103,7 @@ This project demonstrates how **data visualization** and **Power BI analytics** 
 ## 👨‍💻 Author
 **P Roopesh**  
 📊 Data Analyst | Bussiness Analyst
-📧 [Gmail](mailto:puttururoopesh67@gmail.com)  
+📧 [Contact me](mailto:puttururoopesh67@gmail.com)  
 
 ---
 
