@@ -102,8 +102,7 @@ This project demonstrates how **data visualization** and **Power BI analytics** 
 
 ## 👨‍💻 Author
 **P Roopesh**  
-🎓 Final-Year B.Tech Student | 📊 Data Analyst | 💡 Power BI Enthusiast  
-📍 Andhra Pradesh, India  
+📊 Data Analyst | Bussiness Analyst
 📧 [puttururoopesh67@gmai.com]  
 
 ---
